@@ -1,4 +1,4 @@
-
+/*
 var images = ["img/Pig2.jpg","img/Pig3.jpg","img/Pig4.jpg","img/Pig5.jpg","img/Pig6.JPG","img/Pig7.jpg","img/Pig8.jpg","img/Pig9.jpg","img/Pig10.jpg","img/Pig11.jpg","img/Pig12.jpg","img/Pig13.jpg",
 "img/Pig14.jpg","img/Pig15.jpg","img/Pig16.jpg","img/Pig17.jpg","img/Pig18.jpg","img/Pig19.jpg","img/Pig20.jpg","img/Pig21.jpg","img/Pig22.jpg","img/Pig23.jpg","img/Pig24.jpg","img/Pig25.jpg","img/Pig26.jpg",
 "img/Pig27.JPG","img/Pig28.JPG","img/Pig29.JPG","img/Pig30.JPG","img/Pig31.JPG","img/Pig32.JPG","img/Pig33.JPG","img/Pig34.JPG","img/Pig35.JPG","img/Pig36.JPG","img/Pig37.JPG","img/Pig38.JPG","img/Pig39.JPG",
@@ -45,8 +45,8 @@ showSlides(slideIndex = 0);
 
 function currentSlide(n) {
   showSlides(slideIndex = n);
-};
-
+}
+*/
 
 const yourDate = new Date("2019-02-27T21:00:00"),
 music = ['BeautifulInWhite', 'Lov3', 'Xinloianhyeuem','forever','pizza','scaredtobelonely'];
