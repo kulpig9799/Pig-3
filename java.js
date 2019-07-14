@@ -45,7 +45,7 @@ showSlides(slideIndex = 0);
 
 function currentSlide(n) {
   showSlides(slideIndex = n);
-}
+};
 
 
 const yourDate = new Date("2019-02-27T21:00:00"),
